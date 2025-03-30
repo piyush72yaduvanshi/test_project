@@ -14,5 +14,5 @@ A powerful web application that generates websites from a simple text prompt. Bu
 # 🚀 Getting Started
 ## 📥 Installation
 ### 1. Clone the repository
-  (https://github.com/saurabh007007/Kit-Hackathon.git
-cd your-repo)
+https://github.com/developer8486/aiweb_generator.git
+cd your-repo
